@@ -1,0 +1,34 @@
+{
+	"version": "0.0.0",
+	"devDependencies": {
+		"aureooms-node-package": "^2.0.3"
+	},
+	"license": "AGPL-3.0",
+	"keywords": [
+		"bricks",
+		"expression",
+		"javascript",
+		"js",
+		"language",
+		"regex",
+		"regular"
+	],
+	"scripts": {
+		"build": "./node_modules/.bin/aureooms-node-package-build",
+		"doc": "./node_modules/.bin/groc",
+		"test": "./node_modules/.bin/aureooms-node-package-test"
+	},
+	"homepage": "http://aureooms.github.io/js-regex/",
+	"description": "regular expressions code bricks for JavaScript",
+	"main": "js/dist/regex.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/aureooms/js-regex.git"
+	},
+	"bugs": {
+		"url": "https://github.com/aureooms/js-regex/issues"
+	},
+	"author": "aureooms",
+	"dependencies": {},
+	"name": "aureooms-js-regex"
+}

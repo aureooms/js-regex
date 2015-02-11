@@ -1,0 +1,11 @@
+{
+	"version": "0.0.0",
+	"description": "regular expressions code bricks for JavaScript",
+	"main": "js/dist/regex.js",
+	"license": "AGPL-3.0",
+	"repo": "aureooms/js-regex",
+	"scripts": [
+		"js/dist/regex.js"
+	],
+	"name": "aureooms-js-regex"
+}
