@@ -1,5 +1,5 @@
 {
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "regular expressions code bricks for JavaScript",
 	"main": "js/dist/regex.js",
 	"license": "AGPL-3.0",
