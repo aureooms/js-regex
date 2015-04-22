@@ -13,3 +13,4 @@ regular expressions code bricks for JavaScript
 [![Code Climate](http://img.shields.io/codeclimate/github/aureooms/js-regex.svg?style=flat)](https://codeclimate.com/github/aureooms/js-regex)
 [![NPM downloads per month](http://img.shields.io/npm/dm/aureooms-js-regex.svg?style=flat)](https://www.npmjs.org/package/aureooms-js-regex)
 [![GitHub issues](http://img.shields.io/github/issues/aureooms/js-regex.svg?style=flat)](https://github.com/aureooms/js-regex/issues)
+[![Inline docs](http://inch-ci.org/github/aureooms/js-regex.svg?branch=master&style=shields)](http://inch-ci.org/github/aureooms/js-regex)
