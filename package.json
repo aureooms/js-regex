@@ -30,5 +30,5 @@
 	},
 	"author": "aureooms",
 	"dependencies": {},
-	"name": "aureooms-js-regex"
+	"name": "@aureooms/js-regex"
 }
