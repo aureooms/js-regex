@@ -1,4 +1,4 @@
-[js-regex](http://aureooms.github.io/js-regex)
+[js-regex](http://make-github-pseudonymous-again.github.io/js-regex)
 ==
 
 regular expressions code bricks for JavaScript

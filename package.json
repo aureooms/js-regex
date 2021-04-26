@@ -18,7 +18,7 @@
 		"doc": "./node_modules/.bin/groc",
 		"test": "./node_modules/.bin/aureooms-node-package-test"
 	},
-	"homepage": "http://aureooms.github.io/js-regex/",
+	"homepage": "http://make-github-pseudonymous-again.github.io/js-regex/",
 	"description": "regular expressions code bricks for JavaScript",
 	"main": "js/dist/regex.js",
 	"repository": {

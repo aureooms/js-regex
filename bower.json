@@ -3,7 +3,7 @@
   "description": "regular expressions code bricks for JavaScript",
   "main": "js/dist/regex.js",
   "license": "AGPL-3.0",
-  "homepage": "http://aureooms.github.io/js-regex/",
+  "homepage": "http://make-github-pseudonymous-again.github.io/js-regex/",
   "ignore": [
     "js/index.js",
     "js/src",
